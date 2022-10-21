@@ -6,7 +6,7 @@ Se requiere generar el mockup **A** y **B** (**A conecta a B**), en el framework
 
 Los recursos para poder desarrollar esta prueba se encuentran contenidos en el repositorio actual. Las animaciones sobre los elementos del mockup quedan a libre elección (reel, flip, etc…).
 
-Se deberán comprobar las credenciales para el login. Mismas que se encuentran contenidas en el archivo **user_data.json** contenido en este mismo repositorio.
+Se deberán comprobar las credenciales para el login. Mismas que se encuentran definidas en el archivo **user_data.json** colocado en este mismo repositorio.
 
 ¡Éxitos!
 
